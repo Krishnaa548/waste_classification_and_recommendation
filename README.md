@@ -36,15 +36,23 @@ This project combines computer vision and MLOps to automate waste segregation an
 - **Monitoring**: Prometheus, Grafana
 
 ## 📂 Repository Structure
-.
+
 ├── data/ # Raw and processed datasets
+
 ├── models/ # Saved model weights and ONNX exports
+
 ├── src/
+
 │ ├── training/ # Model training scripts
+
 │ ├── inference/ # FastAPI prediction service
+
 │ └── monitoring/ # Drift detection scripts
+
 ├── pipelines/ # CI/CD and data processing workflows
+
 ├── tests/ # Unit and integration tests
+
 └── docs/ # API specifications and project documentation
 
 

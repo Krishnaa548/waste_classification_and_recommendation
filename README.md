@@ -1,4 +1,4 @@
-# Waste Management AI: Image-Based Segregation & Recommendations
+# Waste Management: Image-Based Segregation & Recommendations
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange)
